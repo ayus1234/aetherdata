@@ -1,6 +1,6 @@
 # AetherData — AI-Powered Data Automation Platform
 
-![AetherData Hero](public/og-image.png)
+![AetherData Hero](public/hero.png)
 
 AetherData is a premium, competition-grade SaaS landing page built for the **FrontEnd Battle 3.0 - VibeCoding Competition**. It transforms a legacy pipeline dashboard into a modern, high-conversion marketing site designed to showcase AI-driven data automation capabilities, strict state isolation, and zero-library CSS motion.
 
@@ -11,6 +11,25 @@ AetherData is a premium, competition-grade SaaS landing page built for the **Fro
 **[Insert Vercel/Netlify Live Demo Link Here]**
 
 **[Insert link to Demo Video Here]**
+
+---
+
+## 🖼️ Application Gallery
+
+![Features](public/features.png)
+*Bento Grid and Feature Highlights on Desktop.*
+
+![Monthly Pricing](public/price_monthly.png)
+*Dynamic Multi-Currency Pricing Engine in Monthly Mode.*
+
+![Annual Pricing](public/price_annually.png)
+*Pricing Engine displaying automatic 20% discounts for Annual Billing.*
+
+![Testimonials](public/testimonials.png)
+*Customer Social Proof and Review Section.*
+
+![FAQ](public/faq.png)
+*Frequently Asked Questions with animated accordion toggles.*
 
 ---
 
@@ -78,7 +97,7 @@ npm run start
 
 ### Lighthouse Performance
 
-![Lighthouse Score](public/lighthouse-score.png)
+![Lighthouse Score](public/lighthouse.png)
 
 - **Best Practices**: 100/100
 - **Accessibility (WCAG)**: 96/100

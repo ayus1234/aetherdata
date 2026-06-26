@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Excluded for submission
+*.pdf
+DESIGN.md
+demo.mp4
+*.webp

@@ -1,0 +1,6 @@
+{
+  "name": "AetherData",
+  "description": "AI-driven data automation platform that automates multi-node data flows and processes structured and unstructured data with zero-latency precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

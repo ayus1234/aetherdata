@@ -6,7 +6,7 @@ AetherData is a premium, competition-grade SaaS landing page built for the **Fro
 
 ## 🚀 Live Demo
 
-**[Insert Vercel/Netlify Live Demo Link Here]**
+**[Live Demo on Vercel](https://aetherdata-blue.vercel.app/)**
 
 **[Insert link to Demo Video Here]**
 

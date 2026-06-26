@@ -83,7 +83,7 @@ npm run start
 - **Best Practices**: 100/100
 - **Accessibility (WCAG)**: 96/100
 - **SEO**: 92/100
-- **Performance**: 68/100
+- **Performance**: 57/100
 
 > **Note:** Measured using Chrome DevTools Lighthouse against the local production server.
 

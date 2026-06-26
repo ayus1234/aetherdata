@@ -111,7 +111,7 @@ npm run start
 - **SEO**: 92/100
 - **Performance**: 57/100
 
-> **Note:** Measured using Chrome DevTools Lighthouse against the local production server.
+> **Note:** Measured using Chrome DevTools Lighthouse against the local production server. Please note that Lighthouse performance metrics naturally fluctuate between individual audit runs based on local CPU load and browser conditions; the screenshot above represents a typical snapshot.
 
 ---
 *Built for the FrontEnd Battle 3.0 - VibeCoding Competition*

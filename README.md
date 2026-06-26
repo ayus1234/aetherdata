@@ -1,7 +1,5 @@
 # AetherData — AI-Powered Data Automation Platform
 
-![AetherData Hero](public/hero.png)
-
 AetherData is a premium, competition-grade SaaS landing page built for the **FrontEnd Battle 3.0 - VibeCoding Competition**. It transforms a legacy pipeline dashboard into a modern, high-conversion marketing site designed to showcase AI-driven data automation capabilities, strict state isolation, and zero-library CSS motion.
 
 ---
@@ -16,18 +14,27 @@ AetherData is a premium, competition-grade SaaS landing page built for the **Fro
 
 ## 🖼️ Application Gallery
 
+### 1. Hero Section
+![Hero](public/hero.png)
+*High-conversion Hero layout with dynamic gradients and clear call-to-action.*
+
+### 2. Features Bento Grid
 ![Features](public/features.png)
 *Bento Grid and Feature Highlights on Desktop.*
 
+### 3. Monthly Pricing
 ![Monthly Pricing](public/price_monthly.png)
 *Dynamic Multi-Currency Pricing Engine in Monthly Mode.*
 
+### 4. Annual Pricing
 ![Annual Pricing](public/price_annually.png)
 *Pricing Engine displaying automatic 20% discounts for Annual Billing.*
 
+### 5. Testimonials
 ![Testimonials](public/testimonials.png)
 *Customer Social Proof and Review Section.*
 
+### 6. FAQ Section
 ![FAQ](public/faq.png)
 *Frequently Asked Questions with animated accordion toggles.*
 

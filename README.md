@@ -6,6 +6,14 @@ AetherData is a premium, competition-grade SaaS landing page built for the **Fro
 
 ---
 
+## 🚀 Live Demo
+
+**[Insert Vercel/Netlify Live Demo Link Here]**
+
+**[Insert link to Demo Video Here]**
+
+---
+
 ## ✨ Key Features
 
 ### 1. Dynamic Multi-Currency Pricing Engine (40% Logic Score)
@@ -66,11 +74,7 @@ npm run start
 
 ---
 
-## 🚀 Live Demo & Metrics
-
-**[Insert Vercel/Netlify Live Demo Link Here]**
-
-**[Insert link to Demo Video Here]**
+## 📊 Metrics
 
 ### Lighthouse Performance
 

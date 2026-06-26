@@ -79,9 +79,9 @@ npm run start
 - **Best Practices**: 100/100
 - **Accessibility (WCAG)**: 96/100
 - **SEO**: 92/100
-- **Performance**: 68/100 *(Expected score for CSR React bundle parsing)*
+- **Performance**: 68/100
 
-> **Note to Judges:** The above screenshot reflects the Chrome DevTools Lighthouse audit run against the optimized production build (`npm run build`).
+> **Note:** Measured using Chrome DevTools Lighthouse against the local production server.
 
 ---
 *Built for the FrontEnd Battle 3.0 - VibeCoding Competition*
